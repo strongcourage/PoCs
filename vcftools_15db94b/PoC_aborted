@@ -1,0 +1,12 @@
+##filef<ID=TTAG,Number=1,Type=Float,Description="Sample float tag">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Gype">
+##e=fin_g1k_v37.fasta
+##contig=
+##e=fin_g1k_v37.fasta
+##aG,Nucd71f30db636d,spe="Homo Sapiens">
+#CHROMFLOATTAG=1E-4	GT	0|0
+19	TER	INFO	FORMAT	N01
+19	14370	.	G	A	29	PASS	FLOATTAG=0.0001	GT	0|0
+19	14371	.	G	A	29	PASS	FLOATTAG=1e-4	GT	0|0
+19	14372	.	G	A	29	PASS	FLOATTAG=1E-4	GT	0|0
+19	14373	.	G	A	29	PASS	FLOATTAG=1e4	GT	0|0
